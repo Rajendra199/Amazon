@@ -1,0 +1,12 @@
+function App() {
+  return (
+    <div>
+      <header className="App-header">
+        <a href="/">amazon</a>
+      </header>
+      <main>list product</main>
+    </div>
+  );
+}
+
+export default App;
